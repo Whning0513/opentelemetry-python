@@ -51,7 +51,7 @@ puremagic==2.2.0 ; python_full_version >= '3.12'
     # via mocket
 pytest==7.4.4
     # via -r exporter/opentelemetry-exporter-otlp-common/test-requirements.in
-requests==2.25.0
+requests==2.33.0
     # via opentelemetry-exporter-http-transport
 tomli==2.4.1 ; python_full_version < '3.11'
     # via pytest
